@@ -14,7 +14,7 @@ CLIP_LOG_MIN = 1e-300
 
 class TC_PR_EOS:
     """
-    Twu-Coon-Peng-Robinson (tc-PR) Equation of State.
+    Translated-Consistent-Peng-Robinson (tc-PR) Equation of State.
     
     References:
     - Le Guennec et al. (2016): Accurate modeling of high-pressure phase equilibria...
